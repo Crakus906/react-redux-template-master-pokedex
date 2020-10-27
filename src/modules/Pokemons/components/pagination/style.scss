@@ -1,0 +1,23 @@
+.pagination {   
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.button {
+    margin: 0 8px;
+    padding: 10px;
+}
+
+.button:active {
+    background-color: rgb(76, 133, 111)
+}
+.page {
+    margin: 0 2px;
+    padding: 10px;
+}
+
+.pageActive {
+    background-color: rgb(76, 133, 111);
+    margin: 0 2px;
+    padding: 10px;
+}
